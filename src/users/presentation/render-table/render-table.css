@@ -1,0 +1,14 @@
+table {
+	background-color: rgba(216, 216, 216, 0.248);
+	box-shadow: 20px 20px 45px 0px rgba(0,0,0,0.1);
+	border-radius: 10px;
+	padding: 20px;
+}
+
+th {
+	padding: 0 15px;
+}
+
+td {
+	padding: 3px 0;
+}
